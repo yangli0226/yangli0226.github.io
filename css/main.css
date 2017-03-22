@@ -2854,3 +2854,6 @@ pre .javascript .function {
     text-align: justify;
   }
 }
+body {
+  background: url("/images/t.jpeg");
+}
